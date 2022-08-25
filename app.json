@@ -1,21 +1,21 @@
 {
-  "name": "Adarsh-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @DARK-Devill",
+  "name": "File-To-Url",
+  "description": "Simple pyrogram Telegram bot to Stream Telegram files in web addrese. @DARK-Devil",
   "keywords": [
+      "dark-devil",
       "telegram",
       "stream",
       "web",
       "pyrogram",
       "aiohttp",
       "python",
-      "sri-lanka"
-      "dark-devil"
+      "github",
       "plugin",
       "modular",
       "media",
       "bot"
     ],
-  "repository": "https://github.com/DARK-DEVIL-BOTZ/File-To-Url",
+  "repository": "https://github.com/DARK-DEVIL-BOTZ-File-To-Url",
   "success_url": "/",
   "logo": "https://telegra.ph/file/1350cbb0bb0e9000d5268.jpg",
   "website": "http://github.com/malindunimsara",
@@ -25,37 +25,29 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "Copy-Paste the app name that you just typed above.",
-          "value": "File-To-Link"
+          "description": "Copy-Paste the app name that you just typed above."
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org",
-          "value": "File-To-Link"
+          "description": "Get this value from https://my.telegram.org"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org",
-          "value": "File-To-Link"
+          "description": "Get this value from https://my.telegram.org"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather",
-          "value": "File-To-Link"
+          "description": "Get this value from @BotFather"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var",
-          "value": "File-To-Link"
+          "description": "The BIN Channel ID. Read the readme for more info about this var"
           
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe",
-          "value": "File-To-Link"
+          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID  like 1234509",
-          "value": "File-To-Link"
+          "description": "Your Telegram User ID  like 1234509"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
-          "value": "File-To-Link",
           "required": false
       },
       "UPDATES_CHANNEL": {
@@ -65,17 +57,14 @@
           
       },
       "OWNER_USERNAME": {
-          "description": "Enter your username without @  example  adarsh.",
-          "value": "File-To-Link"
+          "description": "Enter your username without @  example  adarsh."
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
-          "value": "File-To-Link",
           "required": false
       },
       "WORKERS": {
           "description": "No. of workers that is to be assigned. Read the readme for more info about this var",
-          "value": "File-To-Link",
           "required": false
       },
       "PORT": {
@@ -107,7 +96,7 @@
           "required": false
       },
       "SESSION_NAME": {
-          "description": " Session Name for Bot [ Add adarsh-goel]",
+          "description": " Session Name for Bot [File-To-Url]",
           "value": "File-To-Link",
           "required": false
       }
