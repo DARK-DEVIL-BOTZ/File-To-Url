@@ -1,15 +1,15 @@
 # Modified By @DARK-Devil 
-from Adarsh.bot import StreamBot
-from Adarsh.vars import Var
+from DarkDevil.bot import StreamBot
+from DarkDevil.vars import Var
 import logging
 logger = logging.getLogger(__name__)
-from Adarsh.bot.plugins.stream import MY_PASS
-from Adarsh.utils.human_readable import humanbytes
-from Adarsh.utils.database import Database
+from DarkDevil.bot.plugins.stream import MY_PASS
+from DarkDevil.utils.human_readable import humanbytes
+from DarkDevil.utils.database import Database
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import UserNotParticipant
-from Adarsh.utils.file_properties import get_name, get_hash, get_media_file_size
+from DarkDevil.utils.file_properties import get_name, get_hash, get_media_file_size
 db = Database(Var.DATABASE_URL, Var.SESSION_NAME)
 from pyrogram.types import ReplyKeyboardMarkup
 
