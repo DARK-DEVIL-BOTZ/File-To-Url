@@ -98,7 +98,7 @@
       },
        "MY_PASS": {
           "description": "Fucking Password here.",
-          "value": "None",
+          "value": "",
           "required": false
       },
       "BIND_ADRESS": {
