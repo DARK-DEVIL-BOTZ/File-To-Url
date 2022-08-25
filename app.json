@@ -27,7 +27,7 @@
       },
       "APP_NAME": {
           "description": "Copy-Paste the app name that you just typed above.",
-           "value": "",
+           "value": "file-to-url-2071644540",
             "required": true
       },
       "API_ID": {
