@@ -63,7 +63,7 @@ async def start(b, m):
                 [
                     [InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇꜱ ⚡", url="https://t.me/DarkDevilBotz"), InlineKeyboardButton("⚡ sᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/DARKDevilV2")],
                     [InlineKeyboardButton("💞 ᴄᴏɴᴛᴀᴄᴛ 💞", url="https://wa.me/+94703892615"), InlineKeyboardButton("💻 ɢɪᴛʜᴜʙ 💻", url="https://github.com/malindunimsara")],
-                    [InlineKeyboardButton("💌 ꜰᴏʟʟᴏᴡ ꜰʙ 💌", url="https://www.facebook.com/profile.php?id=100075309916172")]
+                    [InlineKeyboardButton("💌 ꜰᴏʟʟᴏᴡ ꜰʙ 💌", url="https://www.facebook.com/profile.php?id=100075309916172")],
                     [InlineKeyboardButton("🔎 ꜱᴇᴀʀᴄʜ 🔍", switch_inline_query_current_chat='')]
                 ]
             ),
