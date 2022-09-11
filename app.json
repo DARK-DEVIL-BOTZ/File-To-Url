@@ -42,7 +42,7 @@
       },
       "BOT_TOKEN": {
           "description": "Get this value from @BotFather .",
-           "value": "5505255276:AAGgOf9uw81xBZcHqEtapnBzpEhaOf3FYTQ",
+           "value": "5658141178:AAEkBB3Q0PP1pm-5PpaklZeJr4BmGRj3GyA",
             "required": true
       },
       "BIN_CHANNEL": {
